@@ -1,0 +1,18 @@
+
+.root{
+    -fx-base: rgb(237,182, 71);
+    -fx-background: rgb(245, 245, 245); 
+}
+
+.button{
+    -fx-background: rgb(255, 255, 255); 
+    -fx-base: rgb(255, 255, 255);
+    -fx-border-color: rgb(49, 89, 23);
+}
+
+.borders{
+    -fx-border-color: rgb(103, 100, 78);
+    -fx-border-style: dotted;
+    -fx-border-width: 1.5;
+    -fx-border-insets: -5;
+}
